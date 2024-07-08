@@ -1,0 +1,29 @@
+.header{
+    background-color: #ffc107;
+    padding: 3px;
+}
+
+.navbar-container{
+    width: fit-content; 
+    /* border-width: 5px;  */
+    /* border-style: solid;  */
+    /* border-color: black;  */
+    margin-left: auto; 
+    margin-right: 20px;
+}
+
+.navbar{
+    list-style-type: none; 
+    display: flex;
+}
+
+.nav{
+    padding: 0px 15px;
+}
+
+.nav-text{
+    text-decoration: none; 
+    color: black; 
+    font-family:system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" ;
+    font-weight: 300;
+}
